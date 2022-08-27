@@ -1,7 +1,9 @@
 # vectorlib
 このプログラムでは、3次元ベクトルに対する数種類の演算関数が用意されています。これは以前、ロボットの6自由度Ikを解いたときの副産物です。
 簡単なプログラムで需要もなさそうですが、せっかくなので公開します。ご自由にお使いください。
-それぞれの関数については、ソースコードに日本語の開設があります。
+それぞれの関数については、ソースコードに日本語の説明があります。
+nwk-had
+@RoboSafs01075
 
 
 This program provides several types of arithmetic functions for three-dimensional vectors. This is a byproduct of solving the robot's six degrees of freedom Ik before.
